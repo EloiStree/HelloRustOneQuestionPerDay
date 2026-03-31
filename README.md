@@ -1,16 +1,20 @@
-# HelloRustOneQuestionPerDay
+# Hello Rust One Question Per Day
 
-> Experiment with a student.  
-> Learn Rust one question a day.  
+> Expérimenter avec un étudiant.  
+> Apprendre Rust une question par jour.
 
-No idea of where we are going 😋...    
-Just experimenting here.       
+Aucune idée de où nous allons 😋...  
+Juste en train d’expérimenter ici.
 
-Table des matieres, en [Video](https://www.youtube.com/@RustOneQuestionPerDay):  
-https://github.com/EloiStree/HelloRustOneQuestionPerDay/issues/1  
+## Table des matières
 
-Le but ici est d'apprendre Godot en version console:  
-https://rust-lang.org/tools/install/     
+[Video](https://www.youtube.com/@RustOneQuestionPerDay),  
+[List](https://github.com/EloiStree/HelloRustOneQuestionPerDay/issues/1)
 
-Mais si vous voulez pratiquer depuis Godot:    
-https://github.com/EloiStree/2026_03_12_godot_nes_learn_rust  
+## Objectif
+
+Le but ici est d'apprendre Rust en version console :  
+https://rust-lang.org/tools/install/
+
+Mais si vous voulez pratiquer depuis Godot :  
+https://github.com/EloiStree/2026_03_12_godot_nes_learn_rust

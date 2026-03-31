@@ -6,6 +6,8 @@
 No idea of where we are going 😋...    
 Just experimenting here.       
 
+Table des matieres, en [Video](https://www.youtube.com/@RustOneQuestionPerDay):  
+https://github.com/EloiStree/HelloRustOneQuestionPerDay/issues/1  
 
 Le but ici est d'apprendre Godot en version console:  
 https://rust-lang.org/tools/install/     

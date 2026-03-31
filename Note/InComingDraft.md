@@ -1,0 +1,2 @@
+Just me having idea on the next question:
+- https://chatgpt.com/share/69cc330e-5034-8327-8531-c725bc38c843

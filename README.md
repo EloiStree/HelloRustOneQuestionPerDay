@@ -1,5 +1,8 @@
 # Hello Rust One Question Per Day
 
+[<img width="848" height="329" alt="image" src="https://github.com/user-attachments/assets/cca6cb6f-2bde-4454-ba0b-648b3e32a16a" />](https://www.youtube.com/@RustOneQuestionPerDay)
+
+
 > Expérimenter avec un étudiant.    
 > Apprendre Rust une question par jour.  
 

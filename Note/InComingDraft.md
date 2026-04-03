@@ -1,28 +1,28 @@
-Question: How to make a red led blink ■ □ ?
-Question: How to make a red led change intensity ▓ ▒ ░ ?
-Question: How to set a led color with RGBA ● ○ ?
-Question: How to make a led stripe that blink from left to right ?
-Question: How in Rust do we listen at keyboard stroke (Arrows/Numpads) ?
-Question: How to create led stripe in ASCII with a float array ?
-Question: How to create led stripe in ASCII with a three bytes array ?
-Question: How to listen to text on port 3614 ?
-Question: How to listen to byte on port 3615 ?
-Question: How to listen to text and byte udp port in the same Rust app ?
-Question: What is a websocket ?
-Question: How to create a websocket server (Client python given) ? 
-Question: How to create a websocket client ?
-Question: How to listen to udp and websocket in the same Rust app ?
-Question: How to turn integer from console to byte little endian ?
-Question: How to turn byte received by udp to integer ?
-Question: How to we create game action based on received integer ?
+- [ ] Question: How to make a red led blink ■ □ ?
+- [ ] Question: How to make a red led change intensity ▓ ▒ ░ ?
+- [ ] Question: How to set a led color with RGBA ● ○ ?
+- [ ] Question: How to make a led stripe that blink from left to right ?
+- [ ] Question: How in Rust do we listen at keyboard stroke (Arrows/Numpads) ?
+- [ ] Question: How to create led stripe in ASCII with a float array ?
+- [ ] Question: How to create led stripe in ASCII with a three bytes array ?
+- [ ] Question: How to listen to text on port 3614 ?
+- [ ] Question: How to listen to byte on port 3615 ?
+- [ ] Question: How to listen to text and byte udp port in the same Rust app ?
+- [ ] Question: What is a websocket ?
+- [ ] Question: How to create a websocket server (Client python given) ? 
+- [ ] Question: How to create a websocket client ?
+- [ ] Question: How to listen to udp and websocket in the same Rust app ?
+- [ ] Question: How to turn integer from console to byte little endian ?
+- [ ] Question: How to turn byte received by udp to integer ?
+- [ ] Question: How to we create game action based on received integer ?
 
-// Ok we know how to set led and we know how to received bytes as action
-// Lets try to make some 1D game in Rust ;)
-Question: ?
+// Ok we know how to set led and we know how to received bytes as action  
+// Lets try to make some 1D game in Rust ;)  
+- [ ] Question: ?
 
-// Ok we can create 1D game on rust ;)
-// Time to Rust our way on real led stripe
-Question: ?
+// Ok we can create 1D game on rust ;)  
+// Time to Rust our way on real led stripe  
+- [ ] Question: ?
 
 
 

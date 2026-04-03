@@ -38,3 +38,21 @@ Just me having idea on the next question:
 <img width="538" height="371" alt="image" src="https://github.com/user-attachments/assets/5e93f49c-761d-4619-b05d-f08e1c1f39f2" />
 <img width="528" height="331" alt="image" src="https://github.com/user-attachments/assets/f88cabcd-2816-43d0-98a3-b9b37599ed28" />
 
+░ , █ , ▄, ▀
+https://en.wikipedia.org/wiki/ASCII_art
+
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣾⣿⣷⣦⣌⠙⢿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣷⡈⢻⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⠟⠋⣉⠙⢻⣿⣿⣿⣷⠀⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⠟⢁⣴⣿⣿⡷⢀⣿⣿⣿⡿⠀⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⠟⢁⣴⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣼⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⠟⢁⣴⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣴⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⠟⢁⣴⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣶⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⠁⣴⣿⣿⣿⣿⣿⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⠀⢿⣿⣿⣿⣿⣿⡿⠋⣠⣾⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣧⡈⠻⢿⣿⡿⠋⣠⣾⣿⣿⡟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣷⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+<img width="771" height="224" alt="image" src="https://github.com/user-attachments/assets/ac4616e7-fd2c-4fdb-aa7e-ade1e05f0eb3" />

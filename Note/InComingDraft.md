@@ -33,3 +33,6 @@ Just me having idea on the next question:
 ▒ ▓ █ ▓ ▒
 ░ ▒ ▓ ▒ ░
 ```
+
+<img width="100" height="134" alt="image" src="https://github.com/user-attachments/assets/77a5f392-41fe-4138-b672-7dee33566cbb" />
+

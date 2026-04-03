@@ -91,3 +91,7 @@ https://www.youtube.com/shorts/tujgH1gaELA?t=16&feature=share
 
 <img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/b48e510f-7a23-4b3d-b715-f828abbbc45c" />
 
+
+
+WS2812B  
+https://youtu.be/LdpvCepML-E?t=305  

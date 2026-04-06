@@ -1,9 +1,3 @@
-- [ ] Question: How to make a red led blink ■ □ ?
-- [ ] Question: How to make a red led change intensity ▓ ▒ ░ ?
-- [ ] Question: How to set a led color with RGBA ● ○ ?
-- [ ] Question: How to make a led stripe that blink from left to right ?
-- [ ] Question: How in Rust do we listen at keyboard stroke (Arrows/Numpads) ?
-- [ ] Question: How to create led stripe in ASCII with a float array ?
 - [ ] Question: How to create led stripe in ASCII with a three bytes array ?
 - [ ] Question: How to listen to text on port 3614 ?
 - [ ] Question: How to listen to byte on port 3615 ?
